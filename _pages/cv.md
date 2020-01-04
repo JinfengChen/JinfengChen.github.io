@@ -11,49 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D. in Genetics, Chinese Academy of Sciences, China, 2012
+* M.S. in Molecular Biology, Northwest A&F University, China, 2006
+* B.S. in Biotechnology, Northwest A&F University, China, 2004
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Staff scientist at City of Hope
+  * Tumor heterogeneity and evolution during drug treatment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Assistant Project Scientist at University of California, Riverside
+  * Transposable element diversity in 3,000 rice genomes
+  * Assembly and phasing of a diploid citrus genome using single-molecule sequencing technologies (PacBio, Bionano, and 10x genomics linked-reads)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Fellow at University of California, Riverside
+  * Dynamic of transposable elements and their impact in rice
+
+* Postdoctoral Fellow at Chinese Academy of Sciences
+  * Genome evolution in rice and wild rice
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
