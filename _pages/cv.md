@@ -21,7 +21,7 @@ Work experience
   * Tumor heterogeneity and evolution during drug treatment
 
 * Assistant Project Scientist at University of California, Riverside, 2017-2019
-  * Transposable element diversity in 3,000 rice genomes
+  * Transposable element diversity in rice population
   
 * Postdoctoral Fellow at University of California, Riverside, 2013-2017
   * Dynamic of transposable elements and their impact in rice
