@@ -22,7 +22,6 @@ Work experience
 
 * Assistant Project Scientist at University of California, Riverside
   * Transposable element diversity in 3,000 rice genomes
-  * Assembly and phasing of a diploid citrus genome using single-molecule sequencing technologies (PacBio, Bionano, and 10x genomics linked-reads)
   
 * Postdoctoral Fellow at University of California, Riverside
   * Dynamic of transposable elements and their impact in rice
