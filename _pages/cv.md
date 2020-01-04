@@ -28,9 +28,3 @@ Work experience
 
 * Postdoctoral Fellow at Chinese Academy of Sciences, 2012-2013
   * Genome evolution in rice and wild rice
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
