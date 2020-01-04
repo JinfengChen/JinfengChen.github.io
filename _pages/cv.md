@@ -17,16 +17,16 @@ Education
 
 Work experience
 ======
-* Staff scientist at City of Hope
+* Staff scientist at City of Hope, 2019-Present
   * Tumor heterogeneity and evolution during drug treatment
 
-* Assistant Project Scientist at University of California, Riverside
+* Assistant Project Scientist at University of California, Riverside, 2017-2019
   * Transposable element diversity in 3,000 rice genomes
   
-* Postdoctoral Fellow at University of California, Riverside
+* Postdoctoral Fellow at University of California, Riverside, 2013-2017
   * Dynamic of transposable elements and their impact in rice
 
-* Postdoctoral Fellow at Chinese Academy of Sciences
+* Postdoctoral Fellow at Chinese Academy of Sciences, 2012-2013
   * Genome evolution in rice and wild rice
 
 Publications
