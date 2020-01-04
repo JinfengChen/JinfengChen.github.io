@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Tracking the origin of two genetic components associated with transposable element bursts in domesticated rice"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+paperurl: 'https://www.nature.com/articles/s41467-019-08451-3.pdf'
+citation: 'Chen, J., Lu, L., Benjamin, J., Diaz, S., Hancock, CN., Stajich JE., Wessler SR.  (2019). &quot;Tracking the origin of two genetic components associated with transposable element bursts in domesticated rice.&quot; <i>Nature Communications</i>. 10:641.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://www.nature.com/articles/s41467-019-08451-3.pdf)
